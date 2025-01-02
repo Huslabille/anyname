@@ -65,7 +65,7 @@ body, html {
 /* Header Section */
 .masthead {
     height: 100vh;
-    background: url('assets/img/bg-masthead.jpg') no-repeat center center/cover;
+    background: url('bg-masthead.jpg') no-repeat center center/cover;
     color: black;
     text-align: center;
 }
